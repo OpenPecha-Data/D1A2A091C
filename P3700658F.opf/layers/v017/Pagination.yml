@@ -923,13 +923,13 @@ annotations:
     reference: ''
     span:
       start: 180410
-      end: 182327
+      end: 182325
   de5f2a3d509d4fa79cf7b2737bd99970:
     imgnum: 555
     reference: ''
     span:
-      start: 182329
-      end: 182813
+      start: 182327
+      end: 182811
 local_ids:
   25963559976b48c1930812176ebb73b8: 200000
   8f2a45260fd84871b51a284f956bd3f1: 200001
